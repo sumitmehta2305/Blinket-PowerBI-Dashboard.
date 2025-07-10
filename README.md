@@ -11,7 +11,7 @@ This Power BI dashboard analyzes and visualizes key metrics for [insert domain �
 
 ## 📁 Files
 - `Blinket.pbix` – Power BI report file
-- `Dashboard.png` – Screenshot of the report
+- `g` – Screenshot of the report
 
 ## 🧠 Insights
 - [List 2–3 insights, like "Top-selling product categories", "Monthly revenue trend", etc.]
@@ -22,7 +22,7 @@ This Power BI dashboard analyzes and visualizes key metrics for [insert domain �
 - DAX (Data Analysis Expressions)
 
 ## 📷 Screenshots
-![Dashboard](Dashboard.png)
+![Dashboard]()
 
 ## 📌 How to Use
 1. Download the `.pbix` file
