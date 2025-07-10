@@ -10,7 +10,7 @@ This Power BI dashboard analyzes and visualizes key metrics for [insert domain �
 - Custom DAX measures
 
 ## 📁 Files
-- `myblinket.pbix` – Power BI report file
+- `Blinket.pbix` – Power BI report file
 - `dashboard_overview.png` – Screenshot of the report
 
 ## 🧠 Insights
