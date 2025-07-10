@@ -1,4 +1,4 @@
-# 🧠 MyBlinket - Power BI Dashboard
+# 🧠 Blinket - Power BI Dashboard
 
 This Power BI dashboard analyzes and visualizes key metrics for [insert domain – e.g., eCommerce, Retail, Finance, etc.].
 
@@ -11,7 +11,7 @@ This Power BI dashboard analyzes and visualizes key metrics for [insert domain �
 
 ## 📁 Files
 - `Blinket.pbix` – Power BI report file
-- `dashboard_overview.png` – Screenshot of the report
+- `Dashboard.png` – Screenshot of the report
 
 ## 🧠 Insights
 - [List 2–3 insights, like "Top-selling product categories", "Monthly revenue trend", etc.]
@@ -22,7 +22,7 @@ This Power BI dashboard analyzes and visualizes key metrics for [insert domain �
 - DAX (Data Analysis Expressions)
 
 ## 📷 Screenshots
-![Dashboard](dashboard_overview.png)
+![Dashboard](Dashboard.png)
 
 ## 📌 How to Use
 1. Download the `.pbix` file
